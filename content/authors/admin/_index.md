@@ -31,7 +31,7 @@ education:
     institution: Texas A&M University
     year: 2022
   - course: B.Tech in Naval Architecture and Ocean Engineering
-    institution: Indian Institute of Technology
+    institution: Indian Institute of Technology Madras
     year: 2016
 
 # Social/Academic Networking
