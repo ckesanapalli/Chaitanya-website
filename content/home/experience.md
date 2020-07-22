@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "SOFEC Inc."
   company_url = "http://www.sofec.com/"
   location = "Texas"
-  date_start = "2017-06-22"
-  date_end = "2017-08-18"
+  date_start = "2020-06-22"
+  date_end = ""
   description = """
   Responsibilities include:
   
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = "https://www.tamu.edu/"
   location = "Texas"
   date_start = "2018-07-01"
-  date_end = ""
+  date_end = "2020-06-22"
   description = """Implemented GPU accelerated 3-D smoothed particle hydrodynamics (SPH) method in multiple projects and performed validation assessment for the sloshing and slamming fluid flows."""
 
 +++
