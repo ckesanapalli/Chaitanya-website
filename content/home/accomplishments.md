@@ -19,33 +19,53 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "American Bureau of Shipping"
+  organization_url = "https://ww2.eagle.org/en.html"
+  title = "American Bureau of Shipping Scholarship"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2020-06-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "American Bureau of Shipping"
+  organization_url = "https://ww2.eagle.org/en.html"
+  title = "American Bureau of Shipping Scholarship"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2019-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "OGAPS, Texas A&M University"
+  organization_url = "https://ogaps.tamu.edu/"
+  title = "Graduate Student Research and Presentation Travel Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "SANME and Department of Ocean Engineering"
+  organization_url = "https://engineering.tamu.edu/ocean"
+  title = "Graduate Student Academic Excellence Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Indian Institute of Technology Madras"
+  organization_url = "https://www.iitm.ac.in/"
+  title = "Merit cum Means Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-06-01"
+  date_end = ""
   description = ""
 
 +++
