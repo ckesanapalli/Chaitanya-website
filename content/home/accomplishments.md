@@ -59,12 +59,22 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "American Bureau of Shipping"
+  organization_url = "https://ww2.eagle.org/en.html"
+  title = "American Bureau of Shipping Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-06-01"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Indian Institute of Technology Madras"
   organization_url = "https://www.iitm.ac.in/"
   title = "Merit cum Means Scholarship"
   url = ""
   certificate_url = ""
-  date_start = "2018-06-01"
+  date_start = "2012-06-01"
   date_end = ""
   description = ""
 
