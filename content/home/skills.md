@@ -21,8 +21,8 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "tint"
-  icon_pack = "fab"
+  icon = "water"
+  icon_pack = "fas"
   name = "Fluid Dynamics"
   description = "90%"
 
